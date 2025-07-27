@@ -19,7 +19,7 @@ To **switch back** to the standard version:
 
 ## 🚀 Quick Start
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/higgs-audio-notebook/blob/main/higgs_audio_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wilzamguerrero/higgs-audio-v2-colab/blob/main/higss%20audio%20v2%20colab.ipynb)
 
 ## ✨ Features
 
