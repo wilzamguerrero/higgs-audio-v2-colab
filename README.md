@@ -1,5 +1,7 @@
 # Higgs Audio V2 Notebook
 
+<img src="figures/higgs_audio_v2_architecture_combined.png" width=900>
+
 Simple Jupyter notebook to run Higgs Audio models with automatic setup and public URL generation.
 
 ## ⚠️ Important: Using Quantized Version
