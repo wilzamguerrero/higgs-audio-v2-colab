@@ -2,8 +2,6 @@
 
 <img src="https://github.com/boson-ai/higgs-audio/raw/main/figures/higgs_audio_v2_architecture_combined.png" width=900>
 
-https://github.com/boson-ai/higgs-audio/raw/main/figures/higgs_audio_v2_architecture_combined.png
-
 Simple Jupyter notebook to run Higgs Audio models with automatic setup and public URL generation.
 
 ## ⚠️ Important: Using Quantized Version
